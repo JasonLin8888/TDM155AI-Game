@@ -112,3 +112,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Debug screenshots from unity-mcp
+/Assets/Screenshots/
+/Assets/Screenshots.meta
